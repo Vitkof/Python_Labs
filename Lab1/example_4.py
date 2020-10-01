@@ -44,7 +44,3 @@ f = fibonUp()
 print("\n*Fibonacci! Please, Press 'Enter' for get next number!")
 while input() == '':
     print(f.__next__())
-
-
-
-
