@@ -1,0 +1,8 @@
+color: white
+doors = 5
+wheels = 4
+places = 5
+class: sedan
+tires: belshina
+rudder: left
+airbag = 2

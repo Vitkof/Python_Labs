@@ -1,0 +1,4 @@
+name
+temperature = 0
+massEarth = 1
+volumeEarth = 1
